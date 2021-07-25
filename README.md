@@ -4,6 +4,6 @@ Simple Multiplatform Apple App that publishes text to Notion. Created with Swift
 The idea is to create an app for project managers to easily post tasks and to-do's to Notion. Also, allow for Siri to automatically post to Notion.
 
 ## Roadmap
-[] Finish cURL POST
+[] Finish cURL POST <br>
 [] Customizable values for Notion DB intergration
 [] Siri intergration
